@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="30421ff4-d2da-41b0-94f4-36d2f7e91f20" name="Default" comment="&#9;&#10;Spent time: fixes #10142 @1h30m&#10;Strategia di risoluzione: Creazione di una variabile che conterrà il codice e successiva stampa di essa.">
+      <change beforePath="$PROJECT_DIR$/ewcfg12.php" afterPath="$PROJECT_DIR$/ewcfg12.php" />
+      <change beforePath="$PROJECT_DIR$/ewdbhelper12.php" afterPath="$PROJECT_DIR$/ewdbhelper12.php" />
+      <change beforePath="$PROJECT_DIR$/funct_0.php" afterPath="$PROJECT_DIR$/funct_0.php" />
+      <change beforePath="$PROJECT_DIR$/php_stockdb.php" afterPath="$PROJECT_DIR$/php_stockdb.php" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="a_customersadd.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/a_customersadd.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="935" column="16" lean-forward="true" selection-start-line="935" selection-start-column="16" selection-end-line="935" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>$option = &amp;$this-&gt;ListOptions-&gt;GetItem(&quot;preview&quot;);</find>
+      <find>RenderOptions</find>
+      <find>codhtml</find>
+      <find>&lt;?php echo $a_customers-&gt;Customer_Number-&gt;EditValue ?&gt;</find>
+      <find>&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;	&lt;div id=&quot;r_City&quot; class=&quot;form-group&quot;&gt;</find>
+      <find>a_customers_add</find>
+      <find>$istanza</find>
+      <find>save</find>
+      <find>button</find>
+      <find>cod_html3</find>
+      <find>load_1</find>
+      <find>function_1</find>
+      <find>$this</find>
+      <find>funct</find>
+      <find>funct($this)</find>
+      <find>Validate</find>
+      <find>funct_0</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>$this</replace>
+      <replace>$istanza</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/function.php" />
+        <option value="$PROJECT_DIR$/load_search.php" />
+        <option value="$PROJECT_DIR$/restoreFilterList.php" />
+        <option value="$PROJECT_DIR$/record_set.php" />
+        <option value="$PROJECT_DIR$/setuplist.php" />
+        <option value="$PROJECT_DIR$/search2.php" />
+        <option value="$PROJECT_DIR$/render_row.php" />
+        <option value="$PROJECT_DIR$/renderlist2.php" />
+        <option value="$PROJECT_DIR$/fun_sql4.php" />
+        <option value="$PROJECT_DIR$/fun_sql.php" />
+        <option value="$PROJECT_DIR$/page_main.php" />
+        <option value="$PROJECT_DIR$/build_basic_search.php" />
+        <option value="$PROJECT_DIR$/export_email.php" />
+        <option value="$PROJECT_DIR$/setup_option.php" />
+        <option value="$PROJECT_DIR$/page_init.php" />
+        <option value="$PROJECT_DIR$/cod_html.php" />
+        <option value="$PROJECT_DIR$/a_customersinfo.php" />
+        <option value="$PROJECT_DIR$/cod_htlm2.php" />
+        <option value="$PROJECT_DIR$/cod_html2.php" />
+        <option value="$PROJECT_DIR$/phplang/cod_html3.php" />
+        <option value="$PROJECT_DIR$/cod_html4.php" />
+        <option value="$PROJECT_DIR$/function_2.php" />
+        <option value="$PROJECT_DIR$/phpfn12.php" />
+        <option value="$PROJECT_DIR$/a_customersupdate.php" />
+        <option value="$PROJECT_DIR$/a_customersdelete.php" />
+        <option value="$PROJECT_DIR$/a_customerssrch.php" />
+        <option value="$PROJECT_DIR$/cod_html3.php" />
+        <option value="$PROJECT_DIR$/function_1.php" />
+        <option value="$PROJECT_DIR$/a_customerslist.php" />
+        <option value="$PROJECT_DIR$/load_1.php" />
+        <option value="$PROJECT_DIR$/list_action.php" />
+        <option value="$PROJECT_DIR$/other_option.php" />
+        <option value="$PROJECT_DIR$/render_list.php" />
+        <option value="$PROJECT_DIR$/render_option_ext.php" />
+        <option value="$PROJECT_DIR$/f_3.php" />
+        <option value="$PROJECT_DIR$/a_customersview.php" />
+        <option value="$PROJECT_DIR$/funct_0.php" />
+        <option value="$PROJECT_DIR$/a_customersedit.php" />
+        <option value="$PROJECT_DIR$/a_customersadd.php" />
+        <option value="$PROJECT_DIR$/ewcfg12.php" />
+        <option value="$PROJECT_DIR$/ewdbhelper12.php" />
+        <option value="$PROJECT_DIR$/php_stockdb.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="659" />
+    <option name="y" value="19" />
+    <option name="width" value="735" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="stock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="stock" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="SQL Resolution Scopes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SearchEverywhereHistoryKey" value="Messa&#9;null&#9;null&#10;MEssa&#9;null&#9;null&#10;Message_s&#9;null&#9;null&#10;cTab&#9;null&#9;null&#10;ca_&#9;null&#9;null&#10;Render&#9;null&#9;null&#10;RenderOptions&#9;null&#9;null&#10;getMessage1&#9;null&#9;null&#10;RestorFilter&#9;null&#9;null&#10;cTable&#9;null&#9;null&#10;LoadRecordS&#9;null&#9;null&#10;RenderLis&#9;null&#9;null&#10;LoadSe&#9;null&#9;null&#10;LoadRo&#9;null&#9;null&#10;SetupOtherOption&#9;null&#9;null&#10;RenderListo&#9;null&#9;null&#10;GroupOptionVisible&#9;null&#9;null&#10;PageName&#9;null&#9;null&#10;PageNa&#9;null&#9;null&#10;ew_Current&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\stock" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_customerslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_customersview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\function_1.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themesview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_supplierslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\font14px.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\userlevelsview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_categoriesaddopt.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\forgotpwd_en.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\resetpwd.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\changepwd.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\register_id.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\register_en.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\notify.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\resetpwd_id.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\forgotpwd.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\changepwd_id.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\register_content.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\resetpwd_en.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\changepwd_en.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\notify_id.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\register.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\forgotpwd_id.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phphtml\notify_en.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\announcementlist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_customersupdate.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_counterloglist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fontcalibri.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themesadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\page_init.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themewhite.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\helpinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fontcomicsansms.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\index.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\breadcrumblinkschecksp.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_purchases_outstandingssrch.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\menuhorizontal.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_payment_transactionsadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\breadcrumblinksadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ewupload12.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\build_basic_search.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\search2.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchaseslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\cod_html.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_customersinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_itemsmaster.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_sales_detailadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchasesgrid.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\php_stock\{B36B93AF-B58F-461B-B767-5F08C12493E9}.xml</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_itemssrch.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_categoriesinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_unit_of_measurementaddopt.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_dateinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_salespreview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\help_categoriesmaster.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\usersinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_sales_outstandingsinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\userpriv.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fontmssansserif.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\timezoneview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_salessrch.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\header.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\notify-id.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_salesdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themesedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\ewtimepicker.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\searchpanelstatus.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\forgotpwd_dialog.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\userevt12.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\detectchanges.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\ewscrolltable.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\register_dialog.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\userfn12.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\ewcalendar.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\changes.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\helpdialog.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\changepwd_dialog.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\eweditor.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\ewscrolltable.min.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\scrolltotop.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpjs\login_dialog.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themedarkglass.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\userlevelsedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\breadcrumblinksview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\load_search.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themesand.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_counterlogadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\forgotpwd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\cod_html3.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\timezonedelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_sales_outstandingsmaster.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\rowsverticalaligntop.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\settingsdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_unit_of_measurementinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ewemail12.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_counterview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\footer.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_suppliersinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\announcementinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ewlookup12.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_counterloginfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_sales_detaildelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ewfile12.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchasesdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themeslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\font12px.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\userlevelslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_hourview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dashboard.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_purchases_detailslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ewmobilemenu.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\tablewidthstyle1.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\Table\Cell.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\Object.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\Footer\PreserveText.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\TextRun.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\MemoryImage.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\Title.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\Image.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\Text.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\Table.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\Header.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\TextBreak.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\ListItem.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\Link.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Section\Footer.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Autoloader.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\IOFactory.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Media.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Style.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\_staticDocParts\theme1.xml</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\_staticDocParts\numbering.xml</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\_staticDocParts\fontTable.xml</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\_staticDocParts\webSettings.xml</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\_staticDocParts\settings.xml</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\TOC.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Writer\Word2007\DocumentRels.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Writer\Word2007\Rels.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Writer\Word2007\Header.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Writer\Word2007\DocProps.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Writer\Word2007\Base.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Writer\Word2007\Footer.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Writer\Word2007\ContentTypes.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Writer\Word2007\Styles.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Writer\Word2007\WriterPart.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Writer\Word2007.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Writer\IWriter.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Style\Paragraph.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Style\TOC.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Style\Table.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Style\ListItem.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Style\TableFull.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Style\Cell.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Style\Image.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord\Template.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ewcaptcha.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\timezoneedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_customersmaster.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_payment_transactionslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_purchases_detailsgrid.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_customerssrch.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_dateadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_payment_transactionspreview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchasesinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_suppliersdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fontcouriernew.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchases_detailview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themeblue.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_payment_transactionsgrid.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\breadcrumblinksedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\languagesadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fontcentury.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_sales_outstandingssrch.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-es.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-si.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-hu.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-hr-utf8.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-el.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-en.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-fr.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-hr.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-jp.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-zh-CN.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-lv.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-ca.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-pt-BR.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-tr.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-bg.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\calendar-sv.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\lang\cn_utf8.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\calendar-setup.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\calendar.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\calendar.min.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\calendar\calendar.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_sales_detailview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\help_categoriesview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_sales_detailpreview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_monthview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\languagesview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_counteredit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchasesadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fontverdana.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\helpdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fontlucidasanstypewriter.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_salesadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\page_main.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\restoreFilterList.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\timezonelist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themeprofessional.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_suppliersupdate.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\helppreview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\settingsview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\renderlist2.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themered.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themeblack.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\notify-en.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_houredit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\helpadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themeolive.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_sales_detailslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phplang\english_phpstock.xml</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phplang\indonesian_phpstock.xml</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\breadcrumblinkslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_supplierssrch.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themesdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_yearview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\visitorstatistics.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpcss\ewscrolltable.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpcss\ewpdf.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_categoriesdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\CachedObjectStorage\Memory.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\CachedObjectStorage\DiscISAM.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\CachedObjectStorage\PHPTemp.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\CachedObjectStorage\CacheBase.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\CachedObjectStorage\SQLite.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\CachedObjectStorage\Wincache.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\CachedObjectStorage\Memcache.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\CachedObjectStorage\MemoryGZip.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\CachedObjectStorage\Igbinary.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\CachedObjectStorage\MemorySerialized.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\CachedObjectStorage\SQLite3.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\locale\pt\br\functions</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\locale\pt\functions</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\locale\sv\functions</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\Chart\Renderer\jpgraph.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\Chart\Renderer\PHP Charting Libraries.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\Reader\Excel5.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\Shared\OLE\PPS\Root.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\Shared\PCLZip\gnu-lgpl.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\Shared\PCLZip\readme.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpexcel180\Classes\PHPExcel\Shared\PCLZip\pclzip.lib.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_sales_detailsgrid.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\cod_html4.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_hourdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fontcenturygothic.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_itemsview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchases_detailpreview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_counterlogdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themegreen.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchases_detailedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_payment_transactionsdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_counterlist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_sales_detailedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_categoriesadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themesinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_salesview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\help_categoriesedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\announcementadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\userlevelsinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\userfn12.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_purchases_detailsinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_monthedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_monthadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\languagesedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchasessrch.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\rowsverticalalignmiddle.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_salesgridcls.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_payment_transactionsinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_salesmaster.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\printtac.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themegray.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_monthdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_itemspreview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_hourlist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setlink.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setxy.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\cell.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\addfont.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setfont.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\text.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\addpage.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\aliasnbpages.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\write.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\rect.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\footer.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setfillcolor.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\acceptpagebreak.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setlinewidth.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\close.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\getx.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\index.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\gety.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setdrawcolor.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\ln.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\pageno.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setsubject.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setcreator.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\settopmargin.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setmargins.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setcompression.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setfontsize.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setauthor.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\fpdf.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\image.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setkeywords.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setx.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\sety.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setdisplaymode.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setautopagebreak.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\line.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setrightmargin.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\header.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\error.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\multicell.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\link.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\settitle.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\settextcolor.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\output.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\setleftmargin.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\addlink.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\doc\getstringwidth.htm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\fpdf.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\courierb.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\timesi.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\timesbi.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\zapfdingbats.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\helveticai.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\helveticabi.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\courieri.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\times.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\courierbi.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\timesb.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\helvetica.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\symbol.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\helveticab.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\font\courier.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\fpdf.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fpdf\html2pdf.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\tablewidthstyle2.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_unit_of_measurementdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_itemsadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ewmysql12.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\settingsedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themedefault.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchases_detaillist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\activateaccount.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fontarial.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_unit_of_measurementadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\helpview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_yearedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\usersdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchases_detailgrid.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_sales_detaillist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\setup_option.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\help_categorieslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_itemsedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themepurple.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_purchases_detailspreview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchasespreview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_sales_detailgrid.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_monthlist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\languageslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themedark.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\timezoneinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\render_row.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fun_sql.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_sales_detailspreview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchasesmaster.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fontlucidasans.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_salesedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\connectors\test.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\connectors\php\basexml.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\connectors\php\phpcompat.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\connectors\php\util.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\connectors\php\commands.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\connectors\php\upload.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\connectors\php\config.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\connectors\php\io.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\connectors\php\connector.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\connectors\uploadtest.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\browser\default\frmresourcetype.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\browser\default\web.config</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\browser\default\images\web.config</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\browser\default\browser.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\browser\default\frmfolders.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\browser\default\frmcreatefolder.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\browser\default\browser.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\browser\default\frmupload.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\browser\default\js\common.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\browser\default\js\fckxml.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\browser\default\frmactualfolder.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\filemanager\browser\default\frmresourceslist.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\build-config.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\styles.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\LICENSE.md</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\ca.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\da.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\sr.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\tr.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\fa.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\de.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\sv.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\ja.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\ka.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\he.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\fi.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\hi.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\km.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\eu.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\gu.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\cy.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\si.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\hu.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\vi.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\zh-cn.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\ku.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\sq.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\ru.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\fr-ca.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\en-gb.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\id.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\el.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\gl.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\et.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\nl.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\pl.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\th.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\it.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\sl.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\lt.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\zh.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\pt.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\en-ca.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\tt.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\bg.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\eo.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\bs.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\fo.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\en-au.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\cs.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\mk.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\es.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\ko.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\ug.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\is.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\no.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\sk.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\uk.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\ms.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\ro.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\pt-br.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\af.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\bn.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\nb.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\ar.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\en.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\fr.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\hr.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\mn.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\sr-latn.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\lang\lv.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\plugins\templates\dialogs\templates.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\plugins\specialchar\dialogs\lang\_translationstatus.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\plugins\preview\preview.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\plugins\scayt\dialogs\toolbar.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\plugins\scayt\README.md</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\plugins\scayt\LICENSE.md</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\plugins\a11yhelp\dialogs\lang\_translationstatus.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\plugins\wsc\README.md</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\plugins\wsc\LICENSE.md</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\plugins\wsc\dialogs\ciframe.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\plugins\wsc\dialogs\tmpFrameset.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\plugins\wsc\dialogs\wsc.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\contents.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\tabindex.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\assets\outputxhtml\outputxhtml.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\assets\posteddata.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\replacebycode.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\uilanguages.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\inlinebycode.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\sample.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\index.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\inlineall.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\api.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\js\sample.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\appendto.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\inlinebycode.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\uilanguages.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\sample.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\inlineall.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\index.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\wysiwygarea\fullpage.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\api.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\appendto.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\uicolor.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\sample_posteddata.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\inlinetextarea.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\xhtmlstyle.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\datafiltering.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\readonly.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\divreplace.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\jquery.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\ajax.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\enterkey\enterkey.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\magicline\magicline.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\sample.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\replacebyclass.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\dialog\assets\my_dialog.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\dialog\dialog.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\htmlwriter\outputforflash.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\htmlwriter\outputhtml.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\tabindex.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\assets\outputxhtml\outputxhtml.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\assets\posteddata.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\toolbar\toolbar.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\old\replacebycode.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\uicolor.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\sample_posteddata.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\inlinetextarea.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\datafiltering.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\readonly.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\xhtmlstyle.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\plugins\enterkey\enterkey.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\plugins\magicline\magicline.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\plugins\wysiwygarea\fullpage.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\plugins\dialog\assets\my_dialog.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\plugins\dialog\dialog.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\plugins\htmlwriter\outputforflash.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\plugins\htmlwriter\outputhtml.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\plugins\toolbar\toolbar.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\divreplace.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\jquery.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\toolbarconfigurator\font\LICENSE.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\toolbarconfigurator\lib\codemirror\codemirror.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\toolbarconfigurator\lib\codemirror\show-hint.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\toolbarconfigurator\lib\codemirror\neo.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\toolbarconfigurator\css\fontello.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\toolbarconfigurator\index.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\ajax.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\css\samples.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\sample.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\samples\replacebyclass.html</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\CHANGES.md</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\skins\moono\editor.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\skins\moono\editor_ie7.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\skins\moono\dialog_iequirks.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\skins\moono\editor_ie8.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\skins\moono\dialog_ie.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\skins\moono\editor_gecko.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\skins\moono\dialog.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\skins\moono\editor_iequirks.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\skins\moono\dialog_ie7.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\skins\moono\editor_ie.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\skins\moono\dialog_ie8.css</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ckeditor\skins\moono\readme.md</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_counterdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_sales_detailsinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\font13px.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ewsession12.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_categoriesview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\PHPWord.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\breadcrumblinksinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_purchases_outstandingslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_dateview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\settingslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\usersview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\menuvertical.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_suppliersmaster.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_purchases_outstandingsmaster.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_counterinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_yearlist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_purchases_detailssrch.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_payment_transactionsgridcls.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\thememaroon.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_itemslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\register.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_payment_transactionssrch.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchases_detailadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\record_set.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_itemsgrid.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\helpedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_suppliersadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ewmenu.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_sales_detailgridcls.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_unit_of_measurementview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_saleslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ewshared12.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_counteradd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_itemsdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_hourinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\logout.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\settingsadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_salesgrid.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\help_categoriesdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_suppliersview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\announcementview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\alertify\alertify.min_original.js</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_counterlogview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\tablewidthstyle3.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchases_detailinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_categoriesedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\changepwd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\helpgridcls.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_dateedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\breadcrumblinksmovesp.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\userlevelsadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_sales_detailinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\usersedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\help_categoriesinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\announcementdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_datedelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_monthinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fonttimesnewroman.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\languagesinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\breadcrumblinksaddsp.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\helplist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_sales_detailssrch.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_itemsupdate.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchases_detailgridcls.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchasesview.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\export_email.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\breadcrumblinksdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpinc\PHPThumb.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\breadcrumblinksdeletesp.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\helpgrid.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\timezoneadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_purchases_outstandingsinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\help_categoriesadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\login.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\settingsinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_unit_of_measurementedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\font11px.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_categorieslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_yearadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_datelist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\languagesdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_yearinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_suppliersedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_itemsgridcls.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\userslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_sales_outstandingslist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\announcementedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_stock_itemsinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\forgotpwd-en.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\forgotpwd.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\registerpendingen.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\register.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\resetpwd-id.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\changepwd-id.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\resetpwd-en.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\resetpwd.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\changepwd.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\changepwd-en.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\registerid.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\notify-id.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\registerapprovedid.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\forgotpwd-id.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\registerpendingid.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\registeren.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\notify-en.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\notify.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phptxt\registerapproveden.txt</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_houradd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fontmsgothic.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_counterlogedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fontfuturanormal.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_customersdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\usersadd.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\dompdf_font_family_cache.dist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\Helvetica-Bold.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\Times-Italic.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\Times-BoldItalic.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\Courier-Bold.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\Times-Bold.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\Helvetica-Oblique.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\Courier-Oblique.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\ZapfDingbats.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\Times-Roman.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\Helvetica-BoldOblique.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\Helvetica.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\Symbol.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\Courier-BoldOblique.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\lib\fonts\Courier.afm</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\dompdf_config.inc.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\include\tcpdf_adapter.cls.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\include\dompdf.cls.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\dompdf061\include\font_metrics.cls.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\cod_html2.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\userlevelsdelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_salesinfo.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themesilver.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\themeglass.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\fonttahoma.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\stats_yeardelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchases_detaildelete.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchasesedit.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_unit_of_measurementlist.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_purchases_detailsgridcls.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_purchasesgridcls.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\view_sales_detailsgridcls.php</PATH>
+          <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\phpfn12.php</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+        <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_customersadd.php</PATH>
+        <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\a_customersedit.php</PATH>
+        <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ewcfg12.php</PATH>
+        <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\ewdbhelper12.php</PATH>
+        <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\f_3.php</PATH>
+        <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\list_action.php</PATH>
+        <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\load_1.php</PATH>
+        <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\other_option.php</PATH>
+        <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\php_stockdb.php</PATH>
+        <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\render_list.php</PATH>
+        <PATH vcs="svn" revision="87">C:\xampp\htdocs\stock\render_option_ext.php</PATH>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.php">
+    <configuration name="a_customersadd.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/php_stock/a_customersadd.php" />
+    <configuration name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost/stock/index.php" />
+    <configuration name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.a_customersadd.php" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.a_customersadd.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" myUseAcceleration="nothing" cleanupOnStartRun="true">
+    <configuration>C:\Users\marsa\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="FORCE_UPDATE" value="true" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\xampp\htdocs\stock" />
+          <option name="myCopyRoot" value="C:\xampp\htdocs\stock" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="C:\xampp\htdocs\stock" />
+          <option name="myCopyRoot" value="C:\xampp\htdocs\stock" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30421ff4-d2da-41b0-94f4-36d2f7e91f20" name="Default" comment="" />
+      <created>1513954265863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513954265863</updated>
+      <workItem from="1513954267804" duration="544000" />
+      <workItem from="1513954816350" duration="10181000" />
+      <workItem from="1514016437553" duration="108045000" />
+    </task>
+    <task id="LOCAL-00001" summary="&#9;&#10;Spent time: fixes #10139 @2h0m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1513965648130</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513965648130</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&#9;&#10;Spent time: fixes #10139 @2h15m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1514025629138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514025629138</updated>
+    </task>
+    <task id="LOCAL-00003" summary="&#9;&#10;Spent time: fixes #10139 @0h30m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1514046113127</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514046113127</updated>
+    </task>
+    <task id="LOCAL-00004" summary="&#9;&#10;Spent time: fixes #10139 @1h30m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1514049655136</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1514049655136</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&#9;&#10;Spent time: fixes #10139 @0h30m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1514121219131</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1514121219131</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&#9;&#10;Spent time: fixes #10139 @0h45m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1514147107136</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1514147107136</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&#9;&#10;Spent time: fixes #10139 @0h45m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1514373489129</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1514373489129</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&#9;&#10;Spent time: fixes #10139 @0h35m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1514376228113</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1514376228113</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&#9;&#10;Spent time: fixes #10139 @0h30m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1514386700114</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1514386700114</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&#9;&#10;Spent time: fixes #10139 @0h20m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1514389299111</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1514389299111</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&#9;&#10;Spent time: fixes #10139 @2h00m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1514398022117</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1514398022117</updated>
+    </task>
+    <task id="LOCAL-00012" summary="&#9;&#10;Spent time: fixes #10139 @0h10m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1514403857136</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1514403857136</updated>
+    </task>
+    <task id="LOCAL-00013" summary="&#9;&#10;Spent time: fixes #10135 @1h30m&#10;Strategia di risoluzione: Rimozione del carattere &quot;@&quot;. in questo modo non c'è la soppressione degli errori">
+      <created>1514451776137</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1514451776137</updated>
+    </task>
+    <task id="LOCAL-00014" summary="&#9;&#10;Spent time: fixes #10139 @1h30m&#10;Strategia di risoluzione: Creazione di una variabile che conterrà il codice e successiva stampa di essa.">
+      <created>1514462165131</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1514462165131</updated>
+    </task>
+    <task id="LOCAL-00015" summary="&#9;&#10;Spent time: fixes #10142 @1h30m&#10;Strategia di risoluzione: Creazione di una variabile che conterrà il codice e successiva stampa di essa.">
+      <created>1514462461130</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1514462461130</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Spent time: fixes #10139 @3h00m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1514480750111</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1514480750111</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Spent time: fixes #10139 @3h20m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe">
+      <created>1514564704112</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1514564704112</updated>
+    </task>
+    <task id="LOCAL-00018" summary="&#9;&#10;Spent time: fixes #10734 @1h &#10;Strategia di risoluzione: Creazione di classi che contengono tali funzioni">
+      <created>1514977940131</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1514977940131</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="118770000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2859477" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1580938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2859477" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1580938" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10139 @2h0m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe" />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10139 @2h15m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe" />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10139 @1h30m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe" />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10139 @0h45m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe" />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10139 @0h35m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe" />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10139 @0h30m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe" />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10139 @0h20m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe" />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10139 @2h00m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe" />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10139 @0h10m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe" />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10135 @1h30m&#10;Strategia di risoluzione: rimozione del carattere &quot;@&quot;. In questo modo non c'è la soppressione degli errori." />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10135 @1h30m&#10;Strategia di risoluzione: Rimozione del carattere &quot;@&quot;. in questo modo non c'è la soppressione degli errori" />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10142 @1h30m&#10;Strategia di risoluzione:Creazione di una variabile contenente il codice e successiva stampa di essa." />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10139 @1h30m&#10;Strategia di risoluzione: Creazione di una variabile che conterrà il codice e successiva stampa di essa." />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10142 @1h30m&#10;Strategia di risoluzione: Creazione di una variabile che conterrà il codice e successiva stampa di essa." />
+    <MESSAGE value="Spent time: fixes #10139 @3h00m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe" />
+    <MESSAGE value="Spent time: fixes #10139 @3h20m&#10;Strategia di risoluzione: implementazione dei blocchi ripetuti in una classe e sostituzione dei blocchi ripetuti nel codice sorgente con la chiamata alle funzioni di tale classe" />
+    <MESSAGE value="&#9;&#10;Spent time: fixes #10734 @1h &#10;Strategia di risoluzione: Creazione di classi che contengono tali funzioni" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#9;&#10;Spent time: fixes #10734 @1h &#10;Strategia di risoluzione: Creazione di classi che contengono tali funzioni" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewshared12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1233" column="0" lean-forward="true" selection-start-line="1233" selection-start-column="0" selection-end-line="1233" selection-end-column="0" />
+          <folding>
+            <marker date="1514993702986" expanded="true" signature="35397:35403" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_payment_transactionsadd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+          <folding>
+            <marker date="1514993353252" expanded="true" signature="2810:2817" ph="×" />
+            <marker date="1514993353252" expanded="true" signature="3283:3290" ph="×" />
+            <marker date="1514993353252" expanded="true" signature="4392:4399" ph="×" />
+            <marker date="1514993353252" expanded="true" signature="4972:4979" ph="×" />
+            <marker date="1514993353252" expanded="true" signature="27046:27173" ph="SELECT `Cust... a_customers" />
+            <marker date="1514993353252" expanded="true" signature="27236:27363" ph="SELECT `Cust... a_customers" />
+            <marker date="1514993353252" expanded="true" signature="28257:28384" ph="SELECT `Supp... a_suppliers" />
+            <marker date="1514993353252" expanded="true" signature="28447:28574" ph="SELECT `Supp... a_suppliers" />
+            <marker date="1514993353252" expanded="true" signature="33921:34151" ph="SELECT `Cust... a_customers" />
+            <marker date="1514993353252" expanded="true" signature="34218:34448" ph="SELECT `Cust... a_customers" />
+            <marker date="1514993353252" expanded="true" signature="35336:35566" ph="SELECT `Supp... a_suppliers" />
+            <marker date="1514993353252" expanded="true" signature="35633:35863" ph="SELECT `Supp... a_suppliers" />
+            <marker date="1514993353252" expanded="true" signature="61597:61724" ph="SELECT `Cust... a_customers" />
+            <marker date="1514993353252" expanded="true" signature="61779:61906" ph="SELECT `Cust... a_customers" />
+            <marker date="1514993353252" expanded="true" signature="64443:64570" ph="SELECT `Supp... a_suppliers" />
+            <marker date="1514993353252" expanded="true" signature="64625:64752" ph="SELECT `Supp... a_suppliers" />
+            <marker date="1514993353252" expanded="true" signature="73799:73805" ph=" " />
+            <marker date="1514993353252" expanded="true" signature="73893:73899" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menuvertical.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <marker date="1514993691591" expanded="true" signature="2426:2433" ph="×" />
+            <marker date="1514993691591" expanded="true" signature="2899:2906" ph="×" />
+            <marker date="1514993691591" expanded="true" signature="4008:4015" ph="×" />
+            <marker date="1514993691591" expanded="true" signature="4588:4595" ph="×" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setuplist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="64" column="104" lean-forward="false" selection-start-line="64" selection-start-column="104" selection-end-line="64" selection-end-column="104" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup_option.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="65" lean-forward="false" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersview.php.mine">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersview.php.r65">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpjs/ewp12.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="4" column="5717" lean-forward="false" selection-start-line="4" selection-start-column="5717" selection-end-line="4" selection-end-column="5717" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod_htlm2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phplang/cod_html3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersinfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5406">
+          <caret line="318" column="12" lean-forward="true" selection-start-line="318" selection-start-column="12" selection-end-line="318" selection-end-column="12" />
+          <folding>
+            <marker date="1514993356382" expanded="true" signature="8127:8141" ph="SELECT * FRO... ${$this-&gt;getSqlFrom()}" />
+            <marker date="1514993356382" expanded="true" signature="12342:12386" ph="DELETE FROM ${$this-&gt;UpdateTable}... " />
+            <marker date="1514993356382" expanded="true" signature="35467:35504" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phpfn12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="37" lean-forward="true" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+          <folding>
+            <marker date="1514993814202" expanded="true" signature="23942:23966" ph="..." />
+            <marker date="1514993814202" expanded="true" signature="23969:23975" ph=" " />
+            <marker date="1514993814202" expanded="true" signature="37146:37351" ph="SELECT C.* F... ${MS_MASINO_BREADCRUMBLINKS_TABLE}" />
+            <marker date="1514993814202" expanded="true" signature="45127:45139" ph="DELETE FROM ${$this-&gt;UpdateTable}... " />
+            <marker date="1514993814202" expanded="true" signature="95888:95905" ph="..." />
+            <marker date="1514993814202" expanded="true" signature="148722:148812" ph="SELECT COUNT... ${EW_USER_LEVEL_TABLE}" />
+            <marker date="1514993814202" expanded="true" signature="148870:149072" ph="INSERT INTO ${EW_USER_LEVEL_TABLE}... " />
+            <marker date="1514993814202" expanded="true" signature="149436:149547" ph="SELECT COUNT... ${EW_USER_LEVEL_PRIV_TABLE}" />
+            <marker date="1514993814202" expanded="true" signature="150014:150305" ph="INSERT INTO ${EW_USER_LEVEL_PRIV_TABLE}... " />
+            <marker date="1514993814202" expanded="true" signature="151584:151744" ph="ALTER TABLE ${EW_USER_LEVEL_PRIV_TABLE}... " />
+            <marker date="1514993814202" expanded="true" signature="151952:152134" ph="SELECT COUNT... ${EW_USER_LEVEL_PRIV_TABLE}" />
+            <marker date="1514993814202" expanded="true" signature="152019:152133" ph="SELECT * FRO... ${EW_USER_LEVEL_PRIV_TABLE}" />
+            <marker date="1514993814202" expanded="true" signature="152785:153028" ph="SELECT COUNT... ${EW_USER_LEVEL_PRIV_TABLE}" />
+            <marker date="1514993814202" expanded="true" signature="152852:153027" ph="SELECT * FRO... ${EW_USER_LEVEL_PRIV_TABLE}" />
+            <marker date="1514993814202" expanded="true" signature="214797:214803" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="36" lean-forward="true" selection-start-line="85" selection-start-column="36" selection-end-line="85" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customerssrch.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_sales_detaillist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="2472" column="13" lean-forward="false" selection-start-line="2472" selection-start-column="13" selection-end-line="2472" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersdelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="529" column="5" lean-forward="true" selection-start-line="515" selection-start-column="4" selection-end-line="529" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="80" column="35" lean-forward="true" selection-start-line="80" selection-start-column="35" selection-end-line="80" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load_search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="120" column="2" lean-forward="false" selection-start-line="120" selection-start-column="2" selection-end-line="120" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/list_action.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="55" column="57" lean-forward="false" selection-start-line="55" selection-start-column="57" selection-end-line="55" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/passwordhash.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page_main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="172" column="16" lean-forward="false" selection-start-line="172" selection-start-column="16" selection-end-line="172" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page_init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="230" column="2" lean-forward="false" selection-start-line="230" selection-start-column="2" selection-end-line="230" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other_option.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="36" column="42" lean-forward="false" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+          <folding>
+            <marker date="1514993980149" expanded="true" signature="2721:2727" ph=" " />
+            <marker date="1514993980149" expanded="true" signature="3241:3247" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/record_set.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/render_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="66" column="47" lean-forward="false" selection-start-line="66" selection-start-column="47" selection-end-line="66" selection-end-column="47" />
+          <folding>
+            <marker date="1514993982127" expanded="true" signature="4520:4526" ph=" " />
+            <marker date="1514993982127" expanded="true" signature="5010:5016" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/render_option_ext.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="17" column="76" lean-forward="false" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
+          <folding>
+            <marker date="1514993983119" expanded="true" signature="1130:1136" ph=" " />
+            <marker date="1514993983119" expanded="true" signature="1601:1607" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/render_row.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="336" column="70" lean-forward="false" selection-start-line="336" selection-start-column="70" selection-end-line="336" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/renderlist2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="189" column="2" lean-forward="false" selection-start-line="189" selection-start-column="2" selection-end-line="189" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restoreFilterList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="141" column="2" lean-forward="true" selection-start-line="141" selection-start-column="2" selection-end-line="141" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="152" column="2" lean-forward="false" selection-start-line="152" selection-start-column="2" selection-end-line="152" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploadhandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function_1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <marker date="1514993318162" expanded="true" signature="2591:2598" ph="×" />
+            <marker date="1514993318162" expanded="true" signature="3169:3176" ph="×" />
+            <marker date="1514993318162" expanded="true" signature="4499:4506" ph="×" />
+            <marker date="1514993318162" expanded="true" signature="5213:5220" ph="×" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fun_sql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-55">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/f_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <marker date="1514993977131" expanded="true" signature="610:661" ph="SELECT COUNT... ${$sSql}" />
+            <marker date="1514993977131" expanded="true" signature="2735:2802" ph="INSERT INTO ${$this-&gt;UpdateTable}... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/export_email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="93" column="15" lean-forward="false" selection-start-line="93" selection-start-column="15" selection-end-line="93" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod_html4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+          <folding>
+            <marker date="1514993549640" expanded="true" signature="418:991" ph="..." />
+            <marker date="1514993549640" expanded="true" signature="474:986" ph="..." />
+            <marker date="1514993549640" expanded="true" signature="538:922" ph="..." />
+            <marker date="1514993549640" expanded="true" signature="1171:1999" ph="..." />
+            <marker date="1514993549640" expanded="true" signature="1433:1993" ph="..." />
+            <marker date="1514993549640" expanded="true" signature="1487:1986" ph="..." />
+            <marker date="1514993549640" expanded="true" signature="1550:1925" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod_html3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="46" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod_html2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="59" column="26" lean-forward="false" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
+          <folding>
+            <marker date="1514993810208" expanded="true" signature="692:698" ph=" " />
+            <marker date="1514993810208" expanded="true" signature="747:753" ph=" " />
+            <marker date="1514993810208" expanded="true" signature="790:796" ph=" " />
+            <marker date="1514993810208" expanded="true" signature="843:849" ph=" " />
+            <marker date="1514993810208" expanded="true" signature="886:892" ph=" " />
+            <marker date="1514993810208" expanded="true" signature="5041:5047" ph=" " />
+            <marker date="1514993810208" expanded="true" signature="5096:5102" ph=" " />
+            <marker date="1514993810208" expanded="true" signature="5139:5145" ph=" " />
+            <marker date="1514993810208" expanded="true" signature="5192:5198" ph=" " />
+            <marker date="1514993810208" expanded="true" signature="5235:5241" ph=" " />
+            <marker date="1514993810208" expanded="true" signature="5547:5553" ph=" " />
+            <marker date="1514993810208" expanded="true" signature="11394:11400" ph=" " />
+            <marker date="1514993810208" expanded="true" signature="11437:11443" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cod_html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-38">
+          <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+          <folding>
+            <marker date="1514993356328" expanded="true" signature="466:472" ph=" " />
+            <marker date="1514993356328" expanded="true" signature="7249:7255" ph=" " />
+            <marker date="1514993356328" expanded="true" signature="7292:7298" ph=" " />
+            <marker date="1514993356328" expanded="true" signature="7685:7691" ph=" " />
+            <marker date="1514993356328" expanded="true" signature="7740:7746" ph=" " />
+            <marker date="1514993356328" expanded="true" signature="7783:7789" ph=" " />
+            <marker date="1514993356328" expanded="true" signature="7836:7842" ph=" " />
+            <marker date="1514993356328" expanded="true" signature="7879:7885" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build_basic_search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="30" column="155" lean-forward="false" selection-start-line="30" selection-start-column="155" selection-end-line="30" selection-end-column="155" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersedit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="600" column="40" lean-forward="true" selection-start-line="600" selection-start-column="40" selection-end-line="600" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funct_0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersupdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="1214" column="19" lean-forward="false" selection-start-line="1214" selection-start-column="18" selection-end-line="1214" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customerslist.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="1247" column="30" lean-forward="true" selection-start-line="1247" selection-start-column="30" selection-end-line="1247" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersview.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="645" column="28" lean-forward="false" selection-start-line="645" selection-start-column="28" selection-end-line="645" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewemail12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewdbhelper12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <marker date="1514994260160" expanded="true" signature="5781:5799" ph="..." />
+            <marker date="1514994260160" expanded="true" signature="6333:6351" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ewcfg12.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="59" column="30" lean-forward="true" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php_stockdb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding>
+            <marker date="1514994293288" expanded="true" signature="5203:5221" ph="..." />
+            <marker date="1514994293288" expanded="true" signature="5755:5773" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a_customersadd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="935" column="16" lean-forward="true" selection-start-line="935" selection-start-column="16" selection-end-line="935" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
